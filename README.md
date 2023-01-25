@@ -8,6 +8,15 @@ The Studio connects to Sanity Content Lake, which gives you hosted content APIs 
 
 [![Deploy with Vercel](https://vercel.com/button)][vercel-deploy]
 
+## Current Hosting
+
+To Add, Update and Modify Content, add '/studio' to the end of the URL
+
+https://medoptics-blog-sanity-cms-next-4u7crcwzy-obayadevops.vercel.app/studio
+
+
+Url of the Blog:
+
 > **Note**
 >
 > This starter uses the `/pages` directory for Next.js routing.
