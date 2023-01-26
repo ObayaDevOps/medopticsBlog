@@ -7,7 +7,8 @@ export interface PostPageHeadProps {
   settings: Settings
   post: Post
 }
-
+//OD: Need to modify this to become a slide show/
+// OR, add a gallery below the text component
 export default function PostPageHead({ settings, post }: PostPageHeadProps) {
   const title = settings.title ?? demo.title
   return (
